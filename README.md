@@ -23,7 +23,7 @@
 
     ![Блок-схема](FilterArray.jpg)
 
-    [Блок-схема FilterArray](https://github.com "Нажмите для перехода на блок-схему")
+    [Блок-схема FilterArray](https://github.com/q7ok/finalControlWork/blob/main/FilterArray.jpg "Нажмите для перехода на блок-схему")
 
 3. Фаил README.md вы сейчас читаете.
 4. Программа которую я написал для решения этой задачи состоит из трёх функций и переменной:
@@ -36,6 +36,6 @@
 
     ![Коммиты](Commits.jpg)
 
-    [Скриншот коммитов](https://github.com "Нажмите для перехода на скриншот коммитов")
+    [Скриншот коммитов](https://github.com/q7ok/finalControlWork/blob/main/Commits.jpg "Нажмите для перехода на скриншот коммитов")
     
 
